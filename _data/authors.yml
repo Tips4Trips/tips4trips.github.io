@@ -2,7 +2,6 @@ roberto:
   name:           Roberto Orgiu
   avatar:         avatar_roberto.png
   bio:            "Roberto è uno sviluppatore Android che viaggia molto. Gli piace scattare fotografie e visitare posti nuovi."
-  email:          adrianmatei@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   # If no twitter in this config, the twitter follow button will be removed
   twitter: _tiwiz 
@@ -15,8 +14,7 @@ roberto:
 daniele:
   name:           Daniele Bonaldo
   avatar:         avatar_daniele.jpg
-  bio:            "Bio for Daniele"
-  email:          adrianmatei@gmail.com
+  bio:            "Daniele è un appassionato di tecnologia che ama viaggiare, sia per lavoro che per piacere, esplorando nuovi luoghi e portando sempre con sè la fidata macchina fotografica."
   twitter: danybony_
   social:
     - title: "twitter"
