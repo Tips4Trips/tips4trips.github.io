@@ -1,0 +1,27 @@
+roberto:
+  name:           Roberto Orgiu
+  avatar:         avatar_roberto.png
+  bio:            "Roberto è uno sviluppatore Android che viaggia molto. Gli piace scattare fotografie e visitare posti nuovi."
+  email:          adrianmatei@gmail.com
+  # Twitter nick for use in Twitter cards and follow button.
+  # If no twitter in this config, the twitter follow button will be removed
+  twitter: _tiwiz 
+  social:
+    - title: "twitter"
+      url: "https://twitter.com/_tiwiz"
+    - title: "instagram"
+      url: "https://www.instagram.com/tiwiz"
+
+daniele:
+  name:           Daniele Bonaldo
+  avatar:         avatar_daniele.jpg
+  bio:            "Bio for Daniele"
+  email:          adrianmatei@gmail.com
+  twitter: danybony_
+  social:
+    - title: "twitter"
+      url: "https://twitter.com/danybony_"
+    - title: "instagram"
+      url: "https://www.instagram.com/danybony_"
+    - title: "youtube"
+      url: "https://www.youtube.com/channel/UC7aX2_JvrhZ2Xw30KniSMpg"
