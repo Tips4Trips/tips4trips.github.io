@@ -4685,6 +4685,40 @@ cite {
           transform: translateY(2px);
 }
 
+.mission {
+  width: 100%;
+  height: 100vh;
+  min-height: 700px;
+  position: relative;
+  background-image: url(../img/bg_contact.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: auto;
+}
+
+.container_mission {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 960px;
+  max-width: 100%;
+}
+
+.container_mission .title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.container_mission .title::before, .container_mission .title::after {
+  content: " — ";
+}
+
 #banner,
 .main_header,
 .page-content,
