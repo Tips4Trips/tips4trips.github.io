@@ -13,7 +13,7 @@ Ad oggi, soltanto due territori hanno impostato una seria legge sulla privacy de
 
 Non sempre (e soprattutto, *non ovunque*) i nostri dati sono così tutelati, e dovrebbe quindi essere una nostra preoccupazione proteggere ciò che abbiamo di più caro e personale, a partire dalla nostra cronologia di navigazione, e finendo con i nostri accessi e le nostre chat.
 
-Un modo per iniziare a proteggerci è utilizzare una VPN, una rete privata virtuale che non permette ad occhi indiscreti di spiare cosa stiamo facendo su internet, oltre che permetterci di apparire in un altro posto. Entrare nello specifico funzionamento di questa tecnologia è fuori dallo scope di questo post, ma sono davvero importanti un paio di nozioni:
+Un modo per iniziare a proteggerci è utilizzare una VPN, una rete privata virtuale che ha lo scopo principale di impedire ad occhi indiscreti di spiare cosa stiamo facendo su internet. Una VPN offre inoltre la possibilità di far credere ai siti che visitiamo che ci stiamo connettendo da un luogo diverso da quello reale. Entrare nello specifico funzionamento di questa tecnologia è fuori dallo scope di questo post, ma sono davvero importanti un paio di nozioni:
 
  1. In primis, è necessario che *il servizio non mantenga i log* di navigazione, e che questo sia certificato da un'autorità competente
  2. *Non dovremmo mai affidarci a servizi gratuiti per una VPN*: dev'essere molto chiaro dal principio quale sia la strategia di monetizzazione di un servizio. Se un servizio è gratuito, è perché il prezzo sono le nostre informazioni, le stesse informazioni che stiamo cercando di proteggere.
